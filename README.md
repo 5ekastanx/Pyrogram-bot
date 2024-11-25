@@ -28,11 +28,11 @@ cd Pyrogram-bot
 ```bash
 pip install -r requirements.txt
 ```
-На файл .env добавьте ваши Telegram API токены:
+На файл .env добавьте ваш SMTP server, на файл bot.py ваши Telegram API токены:
 
-API_ID=ВАШ_API_ID
+api_id=ВАШ_API_ID
 
-API_HASH=ВАШ_API_HASH
+api_hash=ВАШ_API_HASH
 
 Запустите бота:
 ```bash
